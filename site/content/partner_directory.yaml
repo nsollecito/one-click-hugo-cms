@@ -1,0 +1,804 @@
+directory:
+    - name: Akoova
+      description: "K-Hosting by Akoova LOVE STARTS WITH A ‘K’. Knowledge isn’t power… it’s a kind of love… because only when you love what you do that you can gain the kind of expertise that they have, and the sort of determination they have to keep things running smoothly. Akoova put K-HOSTING into Magento."
+      hq: London, UK
+      region: emea
+      website: https://akoova.com/
+      image: akoova.png
+      type: manage_services_provider
+      certification: none
+    - name: Allcloud
+      description: "AllCloud is a global professional services company specializing in cloud enablement, from cloud infrastructure to CRM/ERP cloud applications. The company is an AWS Premier Consulting Partner, Salesforce Platinum Partner and also holds partnerships with Google Cloud Platform and Oracle-Netsuite. The company was established in 2008 and is an industry leader in migrating and deploying companies of all sizes, startups to enterprise and public sector, to the cloud.\nWith over 10 years of experience and a portfolio with thousands of successful cloud deployments, AllCloud holds expertise ranging from: cloud architecture, cloud security, DevOps automation, managed services, CRM and ERP customization and integration, 24/7 support and much more. AllCloud is headquartered in Israel with offices in New York, Munich, Berlin, and London and delivery centers in Israel, Romania and Germany."
+      hq: Rosh Haayin, Israel
+      region: isr
+      website: https://www.allcloud.io/
+      image: allcloud_2.png
+      type: manage_services_provider
+      certification: none
+    - name: Anchor Cloud Hosting
+      description:
+      hq: Sydney, NSW
+      region: apac
+      website: http://www.anchor.com.au
+      image: AnchorCloud.png
+      type: manage_services_provider
+      certification: none
+    - name: Apps Associates
+      description:
+      hq: Acton, Massachusetts
+      region: na
+      website: http://www.appsassociates.com/
+      image: appsassociates_2.png
+      type: manage_services_provider
+      certification: none
+    - name: Basefarm
+      description:
+      hq: Oslo, Norway
+      region: emea
+      website: https://www.basefarm.com
+      image: basefarm.png
+      type: manage_services_provider
+      certification: none
+    - name: BlazeClan
+      description:
+      hq: Maharashtra, India
+      region: ind
+      website: http://www.blazeclan.com/
+      image: BlazeClan.png
+      type: manage_services_provider
+      certification: none
+    - name: Blended Perspectives
+      description:
+      hq: Toronto, ON
+      region: na
+      website: http://www.blendedperspectives.com
+      image: BlendedPerspectives.png
+      type: manage_services_provider
+      certification: none
+    - name: BluAge
+      description:
+      hq: Plano, TX
+      region: na
+      website: https://www.bluage.com/
+      image: BluAge.png
+      type: manage_services_provider
+      certification: none
+    - name: Blue Sentry
+      description:
+      hq: Garden City Beach, South Carolina
+      region: na
+      website: https://bluesentryit.com/
+      image: Blue Sentry.png
+      type: manage_services_provider
+      certification: none
+    - name: Bulletproof
+      description:
+      hq: Sydney, NSW, Australia
+      region: apac
+      website: https://www.bulletproof.net
+      image: Bulletproof.png
+      type: manage_services_provider
+      certification: none
+    - name: Capgemini
+      description:
+      hq: Paris, France
+      region: emea
+      website: https://www.capgemini.com
+      image: CapGemini.png
+      type: manage_services_provider
+      certification: none
+    - name: Claranet
+      description:
+      hq: Holborn, London, UK
+      region: emea
+      website: https://www.claranet.com/
+      image: Claranet.png
+      type: manage_services_provider
+      certification: none
+    - name: Classmethod
+      description:
+      hq: Tokyo, Japan
+      region: apac
+      website: https://classmethod.jp/
+      image: ClassMethod.png
+      type: manage_services_provider
+      certification: none
+    - name: Cloud Kinetics
+      description:
+      hq: Chennai, Tamilnadu
+      region: ind
+      website: http://www.cloud-kinetics.com
+      image: Cloud Kinetics.png
+      type: manage_services_provider
+      certification: none
+    - name: CloudHesive
+      description: CloudHesive was founded by cloud executives and provides cloud solutions through consulting and managed services with a focus on security, reliability, availability and scalability. CloudHesive services help companies reduce their operating costs and increase productivity while improving their cloud security posture by deploying their mission critical workloads onto the CloudHesive Fabric. The CloudHesive Fabric wraps traditional cloud offerings (public, private or hybrid) with cloud-centric security solutions and controls, an innovative management platform and experienced cloud engineers who help customers leverage next-generation DevOps techniques to increase scalability.
+      hq: Fort Lauderdale, FL
+      region: na
+      website: https://cloudhesive.com/
+      image: CloudHesive.png
+      type: manage_services_provider
+      certification: none
+    - name: CloudOps
+      description:
+      hq: Montreal, QC
+      region: na
+      website: http://www.cloudops.com
+      image: CloudOps.png
+      type: manage_services_provider
+      certification: none
+    - name: CMD Solutions
+      description:
+      hq: Australia
+      region: apac
+      website: http://cmdsolutions.com.au/
+      image: CMD Solutions.png
+      type: manage_services_provider
+      certification: none
+    - name: Connectria
+      description:
+      hq: St Louis, MO
+      region: na
+      website: https://www.connectria.com/
+      image: Connectria.png
+      type: manage_services_provider
+      certification: none
+    - name: CorpInfo
+      description:
+      hq: Santa Monica, CA
+      region: na
+      website: https://www.corpinfo.com/
+      image: CorpInfo.png
+      type: manage_services_provider
+      certification: none
+    - name: Cybercom Group
+      description:
+      hq: Stockholm, Sweden
+      region: emea
+      website: http://www.cybercom.com
+      image: Cybercom.png
+      type: manage_services_provider
+      certification: none
+    - name: Riley
+      description: Riley is a cloud-based solutions consultancy, founded with the belief that with the right mix of people and technology, any business can rapidly bring new ideas to life and change the way they work. Riley guides enterprises to re-engineer themselves with emerging technologies, helping them to harness the cloud to create, innovate and use unique capabilities to transform their industry.
+      hq: Melbourne, VIC, Australia
+      region: apac
+      website: https://withriley.com/
+      image: Riley.png
+      type: manage_services_provider
+      certification: none
+    - name: DigitasLBI
+      description:
+      hq: London, UK
+      region: emea
+      website: http://www.digitaslbi.com
+      image: DigitasLBI.png
+      type: manage_services_provider
+      certification: none
+    - name: DoIT International
+      description:
+      hq: Tel-Aviv, Israel
+      region: emea
+      website: http://www.doit-intl.com
+      image: Doit.png
+      type: manage_services_provider
+      certification: none
+    - name: Easyteam
+      description:
+      hq: Paris, France
+      region: emea
+      website: http://www.easyteam.fr
+      image: EasyTeam.png
+      type: manage_services_provider
+      certification: none
+    - name: Ensono
+      description: "Ensono provides hybrid IT solutions that address our clients’ current needs while anticipating and engineering solutions for the ever-changing demands of tomorrow. We’re trusted by some of the world’s most successful companies because we deliver complete hybrid IT solutions and governance customised to each client’s IT journey. As a Managed AWS Service Partner, we help you maximise the power of the Cloud to drive agility for your hybrid IT estate and innovation for your organisation. Our business application services ensure that your critical applications, middleware, and database applications are available, high-performing, and secure 24/7."
+      hq: Downers Grove, Illinois
+      region: na
+      website: https://www.ensono.com/
+      image: Ensono.png
+      type: manage_services_provider
+      certification: none
+    - name: Evry
+      description:
+      hq: Fornebu
+      region: emea
+      website: http://www.evry.com
+      image: Evry.png
+      type: manage_services_provider
+      certification: none
+    - name: Fenego
+      description:
+      hq: Hasselt, Belgium
+      region: emea
+      website: http://www.fenego.be
+      image: Fenego.png
+      type: manage_services_provider
+      certification: none
+    - name: G2 Tech Group
+      description:
+      hq: Boston, MA
+      region: na
+      website: https://www.g2techgroup.com/
+      image: G2 Tech Group.png
+      type: manage_services_provider
+      certification: none
+    - name: GS Neotek
+      description: GS Neotek is the No.1 CDN provider in Korea and AWS Premier Consulting Partner. Established in 1974, we have gained extensive experience and expertise in providing IT services and solutions and maintain core competencies across a broad spectrum of applications and technologies.
+      hq: Seoul, Korea
+      region: apac
+      website: http://www.gsneotek.co.kr/
+      image: GS Neotek.png
+      type: manage_services_provider
+      certification: none
+    - name: HATech
+      description:
+      hq: Las Vegas, NV
+      region: na
+      website: http://hatech.io
+      image: Hatech.png
+      type: manage_services_provider
+      certification: none
+    - name: Haylix
+      description:
+      hq: Melbourne, VIC
+      region: apac
+      website: http://www.haylix.com
+      image: Haylix.png
+      type: manage_services_provider
+      certification: none
+    - name: IBM
+      description:
+      hq: Armonk, NY
+      region: na
+      website: https://www.ibm.com/us-en/
+      image: IBM.png
+      type: manage_services_provider
+      certification: none
+    - name: iTMethods
+      description: "iTMethods is helping customers of all sizes accelerate their Agile, DevOps & Cloud initiatives — we partner with technology leaders to delivery DevOps Tools 'as a Service', AWS Managed Services, Migration Services & DevOps Consulting — solutions that enable your teams to thrive. iTMethods is a leading provider of DevOps Services in North America and unique in holding the following Partner designations; Datadog Partner, AWS Advanced Consulting Partner, AWS DevOps Competency, AWS Managed Service Partner (MSP), CloudBees Jenkins Gold and MSP Partner, Atlassian Gold Solution Provider, GitHub Gold and MSP Partner."
+      hq: Toronto, ON
+      region: na
+      website: https://www.itmethods.com/
+      image: iTMethods.png
+      type: manage_services_provider
+      certification: none
+    - name: ITOC
+      description: "Itoc works with leading digital platforms, SaaS companies and enterprise looking to leverage the benefits of cloud to deliver agility, lower costs, increased security and data insights. We specialise in AWS based solutions. Greenfield, migrations, cloud native application development and data centric machine learning and AI solutions. We also offer next generation managed services."
+      hq: Birsbane, QLD
+      region: apac
+      website: http://www.itoc.com.au
+      image: ITOC.png
+      type: manage_services_provider
+      certification: none
+    - name: KCOM
+      description:
+      hq: Hull, Yorkshire
+      region: emea
+      website: https://www.kcom.com/
+      image: KCOM.png
+      type: manage_services_provider
+      certification: none
+    - name: KMD
+      description:
+      hq: Denmark
+      region: emea
+      website: https://www.kmd.net/
+      image: KMD.png
+      type: manage_services_provider
+      certification: none
+    - name: Les Infogereurs
+      description:
+      hq: Paris, France
+      region: emea
+      website: http://www.les-infogereurs.com
+      image: Lesinfogereurs.png
+      type: manage_services_provider
+      certification: none
+    - name: Linke IT
+      description:
+      hq: Barcelona, Spain
+      region: emea
+      website: http://www.linkeit.com
+      image: Linke.png
+      type: manage_services_provider
+      certification: none
+    - name: LinkByNet
+      description:
+      hq: Saint-Dennis, France
+      region: emea
+      website: http://www.linkbynet.com/
+      image: LinkByNet.png
+      type: manage_services_provider
+      certification: none
+    - name: Masterson Technology Limited
+      description:
+      hq: Hong Kong
+      region: apac
+      website: http://www.masterson-tech.com/
+      image: Masterson Technology Limited.png
+      type: manage_services_provider
+      certification: none
+    - name: nClouds
+      description: nClouds provides expert, award-winning DevOps and cloud professional services, products, and solutions. We partner with customers to build and manage modern infrastructure solutions that deliver innovation faster. nClouds is a certified AWS Advanced Consulting, Technology, Audited MSP, DevOps Competency, and Approved Well-Architected Partner. We have deep skills and experience, including 350+ DevOps AWS implementations, 500+ deployed pipelines, and more than 10,000 managed servers.
+      hq: San Jose, CA
+      region: na
+      website: https://www.nclouds.com/
+      image: nClouds.png
+      type: manage_services_provider
+      certification: none
+    - name: Netlify
+      description:
+      hq: San Francisco, CA
+      region: na
+      website: https://www.netlify.com
+      image: Netlify.png
+      type: manage_services_provider
+      certification: none
+    - name: Network Thinking Solutions
+      description: "Network Thinking Solutions provides enterprise server and network management solutions with a focus on DevOps using Amazon Web Services. We are an Amazon Consulting and Channel Partner. Our solutions range from Linux configurations to Microsoft Windows for the enterprise and small business. NTS uses technology ranging from Amazon AWS, Dell, Sonicwall, Datadog and Quest,. Founded in 1997, NTS has been providing a one stop shop of IT solutions nationwide and internationally."
+      hq: Westlake Village, CA
+      region: na
+      website: https://www.networkthinking.com/
+      image: Network Thinking Solutions.png
+      type: manage_services_provider
+      certification: none
+    - name: Oxalide
+      description:
+      hq: Paris, France
+      region: emea
+      website: https://www.oxalide.com
+      image: Oxalide.png
+      type: manage_services_provider
+      certification: none
+    - name: RedSpace
+      description:
+      hq: Bedford, Nova Scotia
+      region: emea
+      website: http://redspace.com
+      image: Redspace.png
+      type: manage_services_provider
+      certification: none
+    - name: Satalyst
+      description:
+      hq: Victoria Park, Western Australia
+      region: apac
+      website: http://www.satalyst.com
+      image: Satalyst.png
+      type: manage_services_provider
+      certification: none
+    - name: ScaleSquad (NeuronesIT)
+      description: "ScaleSquad is a leading global French Cloud Solutions Provider with expertise across the cloud stack, Infrastructure-, Platform-as-a-Service . ScaleSquad is a leader of Cloud Transformation, Adoption and Managed Services in our markets, we enable growth for our customers and partners. Our comprehensive set of services covers everything you need when it comes to the cloud - from strategy, migration and automation, to management and capacity."
+      hq: Nanterre, France
+      region: emea
+      website: https://scalesquad.io/
+      image: ScaleSquad.png
+      type: manage_services_provider
+      certification: none
+    - name: Serverworks
+      description:
+      hq: Toyko, Japan
+      region: apac
+      website: http://www.serverworks.co.jp
+      image: Serverworks.png
+      type: manage_services_provider
+      certification: none
+    - name: Nordcloud
+      description: "Founded in 2011, Nordcloud is a European leader in public cloud infrastructure solutions and cloud native application services.Since 2012 it has completed more than 300 successful deployments that have helped its enterprise customers reap the full benefits of the cloud, including better security, agility, scalability and reduced costs."
+      hq: Helsinki, Finland
+      region: emea
+      website: https://www.nordcloud.com/
+      image: Nordcloud.png
+      type: manage_services_provider
+      certification: none
+    - name: Pinnacle Solutions
+      description: "As the amount of data continues to grow rapidly within organizations, figuring out what to do with large data volumes can become a struggle – even a nightmare. We help people face the challenge of converting data into structured information that supports effective decision-making. We combine SAS’ analytical system with our own industry and statistical analysis expertise in order to present a complete solution offering for our clients. Our partnership with Datadog gives our clients access to state of the art monitoring services and solutions delivery. We also can host and manage our customer’s solutions in the cloud through our partnership with Amazon Web Services. We serve organizations across all industries through the entire US region. Our mission is to empower your organization to analyze and interpret the 'mountain of data' that you collect and utilize to improve business outcomes, support decision-making, and enable process improvements – from data management and integration to data visualizations and predictive analytics."
+      hq: Indianapolis, IN
+      region: na
+      website: http://pinnaclesolutionsinc.com/
+      image: Pinnacle Solutions.png
+      type: manage_services_provider
+      certification: none
+    - name: Rackspace
+      description: "Certified to manage the world's leading clouds. Because one size doesn't fit all. Rackspace is the #1 provider of IT as a service, in today's multi-cloud world. Rackspace delivers certified expertise and integrated managed services across public and private clouds, managed hosting and enterprise applications. Because Rackspace partners with the leading technology providers, including Alibaba®, AWS, Google&trade;, Microsoft®, OpenStack®, Oracle®, SAP® and VMware®, it is uniquely positioned to provide unbiased advice on the technologies that will best serve each customer's specific needs. Rackspace was named a leader in the 2017 Gartner Magic Quadrant for Public Cloud Infrastructure Managed Service Providers, Worldwide. Based in San Antonio, Texas, Rackspace serves more than 150,000 business customers, including a majority of the Fortune 100, from data centers on five continents."
+      hq: Windcrest, TX
+      region: na
+      website: https://www.rackspace.com
+      image: Rackspace.png
+      type: manage_services_provider
+      certification: none
+    - name: REAN Cloud
+      description: "REAN Cloud is a global Cloud Systems Integrator (CSI), Managed Service Provider (MSP), Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN) and Silver Microsoft Azure Partner.  REAN Cloud offers managed and professional services and patent-pending cloud acceleration solutions for hyperscale integrated infrastructure (IaaS) and platform (PaaS) as a service providers, and is one of few MSPs capable of supporting the entire cloud services lifecycle. Backed by extensive security DNA, deep compliance expertise and broad big data and analytics experience, REAN Cloud specializes in helping enterprise customers operating in highly regulated environments – Financial Services, Healthcare/Life Sciences, Education and the Public Sector – maximize their cloud investments by automating and accelerating key processes. The REAN Cloud team has worked alongside global organizations including the American Heart Association, USTRANSCOM, Alexion Pharmaceuticals, Ditech Mortgage, Ellucian, Globus Genomics, Palo Alto Networks, Philips, PierianDx, SAP, Symantec, Teradata and Veritas.  'REAN Cloud' is a registered trademark, and “REAN Accelerator” is a trademark, of REAN Cloud LLC."
+      hq: Herndon, VA
+      region: na
+      website: https://www.reancloud.com/
+      image: REAN Cloud.png
+      type: manage_services_provider
+      certification: none
+    - name: Relus Cloud
+      description:
+      hq: Peachtree Corners, GA
+      region: na
+      website: https://www.reluscloud.com/
+      image: Relus Cloud.png
+      type: manage_services_provider
+      certification: none
+    - name: Rightbrain Networks
+      description:
+      hq: Ann Arbor, MI
+      region: na
+      website: http://www.rightbrainnetworks.com/
+      image: Rightbrain Networks.png
+      type: manage_services_provider
+      certification: none
+    - name: Scalar Decisions
+      description: "Scalar is Canada’s leading IT solutions provider, focused on security, infrastructure, cloud, and digital transformation. Founded in 2004, Scalar is headquartered in Toronto, with offices in Montreal, Ottawa, London, Winnipeg, Calgary, Edmonton, Vancouver, and Victoria. Scalar was recently named one of Canada's Best Managed Companies, CRN’s 2017 Solution Provider 500 List, and listed on the PROFIT 500 for the seventh year running. In addition, Scalar is an AWS Managed Service Partner, and an AWS Public Sector Program Partner. For further details, visit www.scalar.ca or follow Scalar on Twitter, @scalardecisions."
+      hq: Toronto, ON
+      region: na
+      website: https://www.scalar.ca
+      image: Scalar Decisions.png
+      type: manage_services_provider
+      certification: none
+    - name: Schuberg Phillis
+      description:
+      hq: Schiphol-Rijk, Noord-Holland
+      region: emea
+      website: https://schubergphilis.com/
+      image: Schuberg Philis.png
+      type: manage_services_provider
+      certification: none
+    - name: Sopra-Steria
+      description:
+      hq: Paris, France
+      region: emea
+      website: https://www.soprasteria.com
+      image: Sopra-Steria.png
+      type: manage_services_provider
+      certification: none
+    - name: Sourced Group
+      description: "Sourced Group is a global cloud consultancy that helps enterprises make the most of cloud services with a focus on security, governance and compliance. With offices in Australia, Canada and Singapore, we provide professional services for securing, migrating and managing the cloud infrastructure of large enterprise customers. We specialize in configuration management, automation, cloud computing and data management for a wide range of industries, including financial services, media, transport and telecommunications companies. By utilising our proven deployment frameworks, managed services, and trusted design patterns, we work with the largest and most security conscious organisations to unlock innovation through cloud computing."
+      hq: Sydney, NSW, Australia
+      region: apac
+      website: https://www.sourcedgroup.com/
+      image: Sourced Group.png
+      type: manage_services_provider
+      certification: none
+    - name: Sungard AS
+      description:
+      hq: Wayne, PA
+      region: na
+      website: https://www.sungardas.com/
+      image: Sungard-AS.png
+      type: manage_services_provider
+      certification: none
+    - name: StratusGrid
+      description:
+      hq: Seattle, WA
+      region: na
+      website: http://www.stratusgrid.com
+      image: StratusGrid.png
+      type: manage_services_provider
+      certification: none
+    - name: Strut Digital
+      description:
+      hq: St Leonards, NSW
+      region: apac
+      website: http://strutdigital.com
+      image: StrutDigital.png
+      type: manage_services_provider
+      certification: none
+    - name: Synalabs
+      description:
+      hq: Paris, France
+      region: emea
+      website: http://www.synalabs.com
+      image: Synalabs.png
+      type: manage_services_provider
+      certification: none
+    - name: SynchroNet
+      description: "We are proud to be an Amazon Web Services Advanced Consulting Partner, specializing in end user computing, serverless technologies, and automation. This focus is predicated by our desire to meet the market’s growing need to access any application on any platform…anywhere. Enterprises and partners both look to SynchroNet to provide leading-edge technology solutions with a high level of care. We align people, organizations, and partners with the right technology; that means leveraging Amazon’s Web Services in the areas you and your customers can most benefit. We provide the leadership, experience, collaboration, and validated processes vital to your success. We live a collaborative approach with both our partners and customers, working strategically to meet their unique needs, focusing on the issues at hand, not the technology.   "
+      hq: Houston, TX
+      region: na
+      website: https://synchronet.com/
+      image: SynchroNet.png
+      type: manage_services_provider
+      certification: none
+    - name: Synctree/AppForce
+      description:
+      hq: Altadena, CA
+      region: na
+      website: http://synctree.com
+      image: Synctree.png
+      type: manage_services_provider
+      certification: none
+    - name: The C2 Group
+      description:
+      hq: Grand Rapids, MI
+      region: na
+      website: http://www.c2experience.com
+      image: C2Group.png
+      type: manage_services_provider
+      certification: none
+    - name: The Instillery
+      description:
+      hq: Auckland, North Island, Australia
+      region: apac
+      website: https://theinstillery.com/
+      image: The Instillery.png
+      type: manage_services_provider
+      certification: none
+    - name: ThorTech Solutions
+      description:
+      hq: White Plains, NY
+      region: na
+      website: http://www.thortech-solutions.com
+      image: Thortech.png
+      type: manage_services_provider
+      certification: none
+    - name: Telia
+      description:
+      hq: Helsinki, Finland
+      region: emea
+      website: http://www.inmics.fi
+      image: Telia.png
+      type: manage_services_provider
+      certification: none
+    - name: Trek10
+      description: "Born in the cloud and 100% focused on AWS, Trek10 specializes in leveraging the absolute best tools and AWS platform services to design, build, and support cutting-edge solutions for its clients. Trek10 is expert at providing operational and automation support for AWS customers, and leveraging Datadog is a key part of delivering value to its customers, not to mention the role Datadog plays in helping its customs realize maximum value from the differentiated managed services Trek10 provides."
+      hq: South Bend, IN
+      region: na
+      website: https://www.trek10.com/
+      image: Trek10.png
+      type: manage_services_provider
+      certification: part
+    - name: Trianz
+      description:
+      hq: Karantka, India
+      region: ind
+      website: https://www.trianz.com/
+      image: Trianz.png
+      type: manage_services_provider
+      certification: none
+    - name: Version 1
+      description:
+      hq: Dublin, Ireland
+      region: emea
+      website: https://www.version1.com/Home
+      image: Version 1.png
+      type: manage_services_provider
+      certification: none
+    - name: VNGRS
+      description:
+      hq: Istanbul
+      region: emea
+      website: http://vngrs.com
+      image: VNGRS.png
+      type: manage_services_provider
+      certification: none
+    - name: Zag
+      description:
+      hq: Wellington, NZ
+      region: apac
+      website: http://www.soltius.co.nz/
+      image: Zag.png
+      type: manage_services_provider
+      certification: none
+    - name: zData
+      description:
+      hq: San Francisco, CA
+      region: na
+      website: http://www.zdatainc.com
+      image: Zdata.png
+      type: manage_services_provider
+      certification: none
+    - name: Amazon Web Services
+      hq: Mountain View, CA
+      region: na
+      description: "Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services trusted by millions of active customers around the world, including the fastest growing startups, largest enterprises, and government, to power their infrastructure, make them more agile, and lower costs."
+      image: AWS.png
+      website: https://aws.amazon.com/
+      type: technology
+      certification: none
+    - name: Atlassian
+      hq: Sydney, AUS
+      region: apac
+      description:
+      image: Atlassian.png
+      website: https://www.atlassian.com/
+      type: technology
+      certification: none
+    - name: CloudCheckr
+      hq: Rochester, NY
+      region: na
+      description:
+      image: CloudCheckr.png
+      website: https://cloudcheckr.com/
+      type: technology
+      certification: none
+    - name: CloudHealth
+      hq: Boston, MA
+      region: na
+      description: "Unite and automate your cloud with a platform built to save serious time and money. With unparalleled visibility, intuitive optimization and rock-solid governance practices, CloudHealth is redefining cloud management. The Cloudhealth platform enables enterprises and MSPs to maximize return on cloud investments and make confident decisions around cost, usage, performance and security."
+      image: CloudHealth.png
+      website: https://www.cloudhealthtech.com/partners/integration-partners/datadog
+      type: technology
+      certification: none
+    - name: Chef
+      hq: Seattle, WA
+      region: na
+      description: "Chef is the leader in Continuous Automation software, an innovator in cloud native operations and one of the founders of the DevOps movement. Chef works with more than a thousand of the most innovative companies around the world to deliver their vision of digital transformation, providing the practices and platform to deliver software at speed. Chef Automate is Chef’s Continuous Automation Platform which is powered by an awesome community and open source software engines: Chef for infrastructure, Habitat for cloud native operations , and InSpec for compliance."
+      website: https://www.chef.io/
+      image: Chef.png
+      type: technology
+      certification: none
+    - name: Cloudability
+      description: "Cloudability is a multi-cloud, True Cost&trade; management platform that delivers accurate cloud financials, empowering companies to run their cloud with financial and operational excellence. Designed to enable visibility, optimization and governance for every workload, Kubernetes cluster, application, department and user, Cloudability lets companies leverage the cloud as a competitive differentiator."
+      hq: Portland, OR
+      region: na
+      website: https://www.cloudability.com
+      type: technology
+      image: Cloudability2.png
+      certification: none
+    - name: CoreOS
+      hq: San Francisco, CA
+      region: na
+      description:
+      image: CoreOS.png
+      website: https://www.coreos.com
+      type: technology
+      certification: none
+    - name: Docker
+      hq: San Francisco, CA
+      region: na
+      description:
+      image: Docker.png
+      website: https://www.docker.com/
+      type: technology
+      certification: none
+    # - name: Google
+    #   hq: Mountain View, CA
+    #   description:
+    #   image:
+    #   website: https://cloud.google.com/
+    - name: HashiCorp
+      hq: San Francisco, CA
+      region: na
+      description:
+      image: HashiCorp.png
+      website: https://www.hashicorp.com/
+      type: technology
+      certification: none
+    - name: Kong
+      hq: San Francisco, CA
+      region: na
+      description: "As you adopt modern architectures, including cloud, microservices and containers, to build innovative applications, you need an API gateway that is scalable, highly performant and flexible. Kong is the only enterprise-class API gateway that provides low latency, is light-weight, deployment-agnostic and extensible for these modern architectures."
+      image: Kong-2.png
+      website: https://www.konghq.com
+      type: technology
+      certification: none
+    - name: Mesosphere
+      hq: San Francisco, CA
+      region: na
+      description: "Mesosphere is leading the enterprise transformation toward distributed computing and hybrid cloud. Mesosphere DC/OS is the premier platform for building, deploying, and elastically scaling modern applications and big data. DC/OS makes running containers, data services, and microservices easy across your own hardware and cloud instances."
+      image: Mesosphere.png
+      website: https://www.mesosphere.com
+      type: technology
+      certification: none
+    - name: Rookout
+      hq: Tel-Aviv, Israel
+      region: na
+      description: "Rookout, the rapid debugging company, dramatically slashes debugging time and effort across the full product cycle, from dev through staging and production. It enables on-the-fly data visibility and collection without restarts, redeployments or added code, and with real-time delivery to APM, logging and, alerting and other platforms."
+      website: https://www.rookout.com/
+      image: Rookout.png
+      type: technology
+      certification: none
+    # - name: Microsoft
+    #   hq: Redmond, WA
+    #   description:
+    #   image:
+    #   website: https://azure.microsoft.com/en-us/
+    - name: MongoDB
+      hq: New York, NY
+      region: na
+      description:
+      image: MongoDB.png
+      website: https://www.mongodb.com/
+      type: technology
+      certification: none
+    - name: NGINX
+      hq: San Francisco, CA
+      region: na
+      description: "NGINX, Inc. is the company behind the popular open source project trusted by more than 450 million sites. We offer a suite of technologies for developing and delivering modern applications. The NGINX Application Platform enables enterprises undergoing digital transformation to modernize legacy, monolithic applications as well as deliver new, microservices-based applications. Companies like Netflix, Starbucks, and McDonalds rely on NGINX to reduce costs, improve resiliency, and speed innovation. NGINX investors include: Blue Cloud Ventures, e.ventures, Index Ventures, Goldman Sachs, MSD Ventures, NEA, Runa Capital, and Telstra Ventures."
+      image: NGINX_b.png
+      website: https://www.nginx.com/
+      type: technology
+      certification: none
+    - name: OpsGenie
+      hq: Falls Church, VA
+      region: na
+      description: "OpsGenie is an alerting, on-call management and incident response orchestration solution that ensures faster resolution to business-impacting IT incidents. Trusted by development and operations teams in over 2500 organizations worldwide, OpsGenie integrates with your operations systems providing the tools needed to design actionable alerts, manage on-call schedules and escalations, and orchestrate communication & collaboration during incident resolution."
+      image: Opsgenie.png
+      website: https://www.opsgenie.com
+      type: technology
+      certification: none
+    - name: Pivotal
+      hq: San Francisco, CA
+      region: na
+      description: "The world’s most established companies work with Pivotal. The results are transformational. Through adoption of our platform, tools, and methodology, these companies have unleashed innovation and reduced time-to-market, spending less to expand and maintain their existing application portfolio. Results span industries, including automotive, financial services, industrial, media, retail, government, technology, and telecommunications."
+      image: Pivotal.png
+      website: https://pivotal.io/platform
+      type: technology
+      certification: none
+    - name: VictorOps
+      hq: Boulder, CO
+      region: na
+      description: "Being on call doesn''t have to suck. VictorOps is incident management purpose-built for DevOps. From scheduling to routing, we empower engineers with the context and collaboration necessary to solve problems with speed and efficiency."
+      website: https://victorops.com/
+      image: VictorOps.png
+      type: technology
+      certification: none
+    - name: Xmatters
+      hq: San Ramon, CA
+      region: na
+      description: "xMatters IT Alerting integrates people into your toolchains spanning DevOps, Ops, and Service Management solutions. xMatters automates communications so you can proactively prevent outages, rapidly engage resolvers, manage major incidents, and keep stakeholders informed."
+      website: https://www.xmatters.com/
+      image: x_matters.png
+      type: technology
+      certification: none
+    - name: Diamanti
+      hq: San Jose, CA
+      region: na
+      description: "Diamanti is the technology leader in bare-metal container infrastructure. Purpose-built for modern cloud and open-source environments, Diamanti’s container platform gives infrastructure architects, IT operations, and application owners the speed, simplicity, efficiency, and control they need to run stateful containerized applications in production."
+      website: https://diamanti.com/
+      image: diamanti.png
+      type: technology
+      certification: none
+    - name: Aqua Security
+      description: "Aqua Security enables enterprises to secure their container and cloud-native applications from development to production, accelerating application deployment and bridging the gap between DevOps and IT security. Aqua’s Container Security Platform provides full visibility into container activity, allowing organizations to detect and prevent suspicious activity and attacks in real time. Integrated with container lifecycle and orchestration tools, the Aqua platform provides transparent, automated security while helping to enforce policy and simplify regulatory compliance."
+      hq: Burlington, MA
+      region: na
+      website: https://www.aquasec.com/
+      image: Aqua.png
+      type: technology
+      certification: none
+    - name: Gremlin
+      description:
+      hq: San Jose, CA
+      region: na
+      website: https://www.gremlin.com/
+      image: Gremlin.png
+      type: technology
+      certification: none
+    - name: Signal Sciences
+      description:
+      hq: Culver City, CA
+      region: na
+      website: https://www.signalsciences.com/
+      image: SignalSciences.png
+      type: technology
+      certification: none
+    - name: Amazon Web Services
+      hq: Mountain View, CA
+      region: na
+      description: "Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services trusted by millions of active customers around the world, including the fastest growing startups, largest enterprises, and government, to power their infrastructure, make them more agile, and lower costs."
+      image: AWS.png
+      website: https://aws.amazon.com/
+      type: technology
+      certification: none
+    - name: Cloudflare
+      hq: San Francisco, CA
+      region: na
+      description: " "
+      image: Cloudflare.png
+      website: https://www.cloudflare.com
+      type: technology
+      certification: none
+    - name: RapDev
+      description: ""
+      hq: Los Angeles, CA
+      region: na
+      website: https://www.rapdev.io/
+      image: rapdev.png
+      type: manage_services_provider
+      certification: part
+

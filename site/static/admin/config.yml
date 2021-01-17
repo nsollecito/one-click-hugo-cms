@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
@@ -80,3 +80,20 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+      - label: "Partner Directory"
+        name: "partner_directory"
+        file: "site/content/partner_directory.yaml"
+        format: yml
+        fields:
+          - name: directory
+            label: Directory
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Description, name: description, widget: string}
+              - {label: HQ, name: hq, widget: string}
+              - {label: Region, name: region, widget: string}
+              - {label: Website, name: website, widget: string}
+              - {label: Image, name: image, widget: string}
+              - {label: Type, name: type, widget: string}
+              - {label: Certification, name: certification, widget: string}
