@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: nsollecito/one-click-hugo-cms
   use_large_media_transforms_in_media_library: false
   
